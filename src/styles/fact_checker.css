@@ -1,0 +1,84 @@
+.menubar {
+    padding: 10px;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 50px;
+  }
+  .logoimage {
+    margin-left: 80px;
+    display: inline-block;
+  }
+  
+  .logintext {
+    float: right;
+    justify-content: center;
+    margin-top: 50px;
+    margin-right: 120px;
+    color: #FF914E;
+    font-family: Inter;
+    font-size: 20px;
+    margin-left:20px ;
+  }
+  .headders {
+    float: right;
+    justify-content: center;
+    margin-top: 50px;
+    margin-right: 70px;
+    color: #FF914E;
+    font-family: Inter;
+    font-size: 20px;
+    margin-left:20px ;
+  }  
+
+  body {
+    background-color:#fff;
+    ;
+  }
+
+  .body {
+    text-align: center; 
+  }
+  
+  .bodytext {
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+  
+  .textAreaContainer {
+    margin-top: 60px; /* Adjust as needed */
+  }
+  
+  .textarea {
+    width: 754px;
+    height: 270px;
+    border-radius: 15px;
+    background-color: #eeeeee;
+    padding: 30px;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    color: #A4A2A2;
+  }
+
+  .generatebutton{
+    background-color: #FF914E;
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    width: 223px;
+    height: 56px;
+    border-radius: 25px;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+
+  }
+  .buttoncontianer{
+    padding-top: 60px;
+  }
